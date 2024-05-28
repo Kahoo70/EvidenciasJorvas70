@@ -1,0 +1,29 @@
+
+---Requerimientos Funcionales---
+
+Solicitar Datos: Se debe solicitar al usuario que ingrese la capacidad del camión y el peso de
+los sacos.
+
+Verificación de Datos ingresados: Verificar que la capacidad del camión esté dentro del rango de 18000kg a 28000kg
+y que el peso de los sacos esté dentro del rango de 3000kg a 9000kg.
+
+Limite de Carga: Se debe cargar los sacos en los camiones hasta alcanzar su capacidad máxima.
+
+Despacho de Camiones: Cuando un camión esté lleno, se debe despachar y comenzar a cargar otro.
+
+Límite de Camiones: Se debe cargar un máximo de 20 camiones.
+
+
+
+
+---Requerimientos No Funcionales---
+
+Usabilidad: El programa debe ser fácil de entender y usar para el operario encargado de la carga.
+
+Eficiencia: El programa debe ejecutarse de manera eficiente y no debe tener tiempos de espera innecesarios.
+
+Manejo de Errores: El programa debe manejar adecuadamente los errores de entrada del usuario, como valores fuera de
+rango.
+
+Claridad de Mensajes: Los mensajes de salida deben ser claros y comprensibles para el operario, indicando claramente qué
+acción debe tomar.

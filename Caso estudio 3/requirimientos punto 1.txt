@@ -1,0 +1,38 @@
+PUNTO 1
+
+REQUERIMIENTOS FUNCIONALES
+
+1-visualizacion de las HABITACIONES DISPONIBLES 
+La persona poseera la posibilidad de visualizar las habitaciones que se encuentras disponibles con su numero de identificación
+
+
+2-seleccion de la HABITACION por parte de el usuario 
+El usuario tendra la opcion de elegir por consola la habitacion que desea escojer en la gama de habitaciones que existen 
+
+
+3-disponibilidad de la fecha de la habitación 
+La persona podra introducir la fecha que quiera para la reserva teniendo en cuenta el año, el mes y el dia para luego informarle de los datos que ingreso
+
+
+4-registro datos personales 
+Despues de introducir la fecha de reserva debera aparecer un apartado en el cual la persona digite sus datos personales para la identificacion de la reserva como su nombre, ID y telefono
+
+
+5-cuota de reserva 
+Al final del proceso para validar la reserva la persona deberá pagar una pequeña cuota para evitar inconvenientes en caso de cancelarla
+En este apartado si la persona excede su pago debera aparecer las devueltas y en caso de no ser suficiente debera finalizar el proceso indicando que el pago no es suficiente
+
+
+
+6-informacion de la reserva
+Cuando la persona ingrese el pago de la reserva exitosamente debera informarle al usuario los datos que ingreso he indicandole la habitacion que reservo
+
+
+
+
+NO FUNCIONALES
+
+
+1-información del hotel 
+Una informacion breve del hotel para que la persona se sienta confiada en el proceso.
+

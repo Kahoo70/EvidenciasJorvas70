@@ -1,0 +1,11 @@
+Requerimientos funcionales
+
+- Debe aceptar todo tipo de numeros(reales, enteros,ect)
+- El usuario podra elegir que proceso desea realizar
+- El usuario podra ingresar los numeros requeridos cuando el programa se lo solicite
+- La calculadora identificara el tipo de operación que desea realizar el usuario a través de su decisión, Mostrara lelresultado
+- El software se desarrollará en el lenguaje python
+
+Requisistos no funcionales
+-interfaz intuitiva
+- Muestra del proceso que se realiza en el momento
